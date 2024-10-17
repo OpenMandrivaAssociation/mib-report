@@ -4,7 +4,7 @@ Version:	0.12
 Release:	1
 License:	GPLv2+
 Group:		System/Configuration/Packaging
-Url:		http://mib.pianetalinux.org/mib-report/
+Url:		https://mib.pianetalinux.org/mib-report/
 Source0:	http://mib.pianetalinux.org/mib-report/%{name}-%{version}.tar.bz2
 # bash-completion
 Source1:	%{name}
